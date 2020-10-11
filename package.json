@@ -1,0 +1,21 @@
+{
+    "name": "bazenga",
+    "displayName": "bazenga",
+    "description": "A color theme with kenyan touch",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "bazenga",
+                "uiTheme": "vs-dark",
+                "path": "./themes/bazenga-color-theme.json"
+            }
+        ]
+    }
+}
