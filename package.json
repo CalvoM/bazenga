@@ -18,5 +18,9 @@
             }
         ]
     },
-    "publisher": "d1r3ct0r"
+    "publisher": "d1r3ct0r",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CalvoM/bazenga.git"
+    }
 }
